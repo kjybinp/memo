@@ -16,9 +16,14 @@
 - いわれるがままにBuld Toolsをインストール。
 - （ノートPCで）エミュレータがうまく動かなったのが、CPUの問題っぽいのであきらめた。
 
+#### 実機でテスト
+- [3]の通り実施で終了。
+
 ## 開発
 - ストップウォッチの作成[2]。
 
 ## 参考サイト
 [1] [IntelliJ IDEAでKotlin Androidアプリ開発環境構築！ 導入編](https://qiita.com/g0z4ru/items/24bca8e6fb691f29260f)  
 [2] [正式採用の「Kotlin」で挑戦！ 初めてのAndroidアプリ開発 〜ストップウォッチを作ってみよう〜](https://employment.en-japan.com/engineerhub/entry/2017/06/23/110000)  
+[3] [Android Studio】開発したアプリの実機テストを行う方法。](https://original-game.com/develop-android-app-4/)
+
